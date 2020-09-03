@@ -138,10 +138,10 @@ for i in best_answer:
     Answer.append(Ans[i])
 print("The best answer with C=C2 is",Answer,"and the objective function is equal to",c_best_answer)
 
-
+'''
 The best answer with C=C1 is ['A7', 'A3', 'A4'] and the objective function is equal to 3
 
 The best answer with C=C2 is ['A4', 'A3', 'A7'] and the objective function is equal to 7
-
+'''
 
 
