@@ -4,7 +4,7 @@ Created on Sun Apr 26 16:01:31 2020
 
 @author: Navid
 """
-#set covering problem solved by artificial bee colony algorithm
+#set covering problem solved by artificial bee colony algorithM
 
 import numpy as np
 import random
